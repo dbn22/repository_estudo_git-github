@@ -1,4 +1,4 @@
-# DIO-Criando_seu_Primeiro_Repositorio_no_GitHub
+# DIO_desafio-primeiro_repositório
 ### Links uteis:
 
 https://git-scm.com/doc
